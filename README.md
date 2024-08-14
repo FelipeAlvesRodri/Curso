@@ -1,5 +1,6 @@
 # Curso tecnico de Analise e Desenvolvimento de Sistemas
-todas as atividades feitas por mim durante o curso estaram aqui!
+<p> Sou do curso tecnico de Análise e Desenvolvimento de Sistemas, atualmente estou no 2 ano, aqui estará codigos de cada materia que fiz, onde você poderá ver minha evolução e aprendizagem.</p>
+
 # Tecnologias utilizadas
 - Python
 - JavaScript
