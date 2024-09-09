@@ -1,7 +1,8 @@
 numero = int(input())
 
 for i in range(1, numero+1):
-    X,Y = map(int(input())).split()
+    X, Y = map(int, input().split())
+
 
     soma_impares = 0 
 
