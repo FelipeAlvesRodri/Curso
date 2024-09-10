@@ -70,6 +70,7 @@ ul {
 }
 
 #chamada {
+    margin: 20px;
     text-align: center;
     background-color: #e6f7ff;
     padding: 15px;
@@ -83,6 +84,7 @@ ul {
 }
 
 #chamada button {
+    margin-top: 20px;
     background-color: #0073e6;
     color: white;
     padding: 8px 16px;
