@@ -11,4 +11,5 @@
 ## Conteudo curso
 <p1> Aqui em baixo estará um site simples feito por mim, para divulgação do curso na feira de ciencias.<p1>
 
-<a href="https://felipealvesrodri.github.io/Curso/" style="text-decoration: none; display: inline-block; padding: 10px 20px; border: none; border-radius: 5px; background-color: #4CAF50; color: #ffffff; cursor: pointer;"> Link para o site</a>
+[![Link para o site](https://img.shields.io/badge/Link_para_o_site-4CAF50?style=for-the-badge&logo=github)](https://felipealvesrodri.github.io/Curso/)
+
