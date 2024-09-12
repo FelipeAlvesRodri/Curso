@@ -9,17 +9,13 @@ body {
     line-height: 1.4;
     background-color: #f0f4f8;
     color: #333;
-    height: 100vh;
-    /* O conteúdo vai ocupar 100% da altura da tela */
-    overflow: hidden;
-    /* Remove a rolagem */
+    min-height: 100vh;
 }
 
 header {
     background-color: #005bb5;
     color: white;
     padding: 20px;
-    /* Reduzido para economizar espaço */
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-bottom: 5px solid #0073e6;
@@ -27,20 +23,17 @@ header {
 
 header h1 {
     font-size: 2rem;
-    /* Reduzido */
     margin-bottom: 5px;
     font-weight: 700;
 }
 
 header h2 {
     font-size: 1rem;
-    /* Reduzido */
     font-weight: 300;
 }
 
 section {
     margin: 10px 10px;
-    /* Reduzido */
     padding: 10px;
     background-color: white;
     border-radius: 12px;
@@ -50,7 +43,6 @@ section {
 h3 {
     margin-bottom: 10px;
     font-size: 1.2rem;
-    /* Reduzido */
     color: #005bb5;
     border-bottom: 2px solid #0073e6;
     padding-bottom: 5px;
@@ -59,14 +51,8 @@ h3 {
 p,
 ul {
     font-size: 0.9rem;
-    /* Reduzido */
-
     list-style-type: none;
-    /* Remove os pontinhos */
     padding-left: 0;
-    /* Remove o recuo padrão da lista */
-
-
 }
 
 #chamada {
@@ -74,7 +60,6 @@ ul {
     text-align: center;
     background-color: #e6f7ff;
     padding: 15px;
-    /* Reduzido */
     border-radius: 12px;
     border: 2px solid #b3e0ff;
 }
@@ -105,7 +90,80 @@ footer {
     background-color: #005bb5;
     color: white;
     font-size: 0.9rem;
-    position: absolute;
+    position: relative;
     bottom: 0;
     width: 100%;
+}
+
+/* Tornar o layout responsivo */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    header h2 {
+        font-size: 0.9rem;
+    }
+
+    section {
+        margin: 5px;
+        padding: 8px;
+    }
+
+    h3 {
+        font-size: 1rem;
+    }
+
+    #chamada {
+        padding: 10px;
+    }
+
+    #chamada button {
+        padding: 6px 12px;
+        font-size: 0.8rem;
+    }
+
+    footer {
+        padding: 8px;
+    }
+}
+
+/* Para telas menores que 480px */
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.2rem;
+    }
+
+    header h2 {
+        font-size: 0.8rem;
+    }
+
+    section {
+        margin: 3px;
+        padding: 6px;
+    }
+
+    h3 {
+        font-size: 0.9rem;
+    }
+
+    #chamada {
+        padding: 8px;
+    }
+
+    #chamada button {
+        padding: 5px 10px;
+        font-size: 0.7rem;
+    }
+
+    footer {
+        padding: 6px;
+    }
+}
+
+@media screen   and (max-width: 800px) {
+    #chamada {
+        margin: 10px;
+    }
+    
 }
