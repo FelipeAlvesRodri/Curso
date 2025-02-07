@@ -1,5 +1,5 @@
 # Curso tecnico de  Desenvolvimento de Sistemas
-<p> Sou do curso tecnico de Desenvolvimento de Sistemas, atualmente estou no 2 ano, aqui estará codigos de cada materia que fiz, onde você poderá ver minha evolução e aprendizagem.</p>
+<p> Sou do curso tecnico de Desenvolvimento de Sistemas, atualmente estou no 3 ano, aqui estará codigos de cada materia que fiz, onde você poderá ver minha evolução e aprendizagem.</p>
 
 
 ## Tecnologias utilizadas
