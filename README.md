@@ -1,49 +1,53 @@
-Curso - Repositório de Estudos
-Este repositório contém materiais e projetos relacionados a cursos de programação e desenvolvimento.
+# 📚 Repositório de Cursos - Felipe Alves Rodrigues
 
-📂 Estrutura do Repositório
-O repositório está organizado em pastas por curso/tema. Cada pasta pode conter:
+![GitHub last commit](https://img.shields.io/github/last-commit/FelipeAlvesRodri/Curso?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/FelipeAlvesRodri/Curso?style=flat-square)
 
-Códigos-fonte de exemplos
+Repositório dedicado ao armazenamento de materiais, projetos e exercícios de diversos cursos de programação e desenvolvimento.
 
-Exercícios resolvidos
+## 🚀 Visão Geral
 
-Projetos práticos
+Este repositório serve como:
+- Banco de conhecimento para consulta
+- Portfólio de aprendizagem
+- Local de prática e experimentação
+- Compartilhamento de recursos educacionais
 
-Anotações e materiais de estudo
+## 📂 Estrutura do Projeto
+Curso/
+├── 📁 2 ano /
+│ ├── 📁 materia/
+│ │ ├── 📄 exemplos/
+│ │ ├── 📄 exercicios/
+│ │ └── 📄 projetos/
+│ └── 📁 outra materia/
+├── 📁 3 ano /
+├── 📄 README.md
+└── 📄 LICENSE
 
-🛠 Tecnologias Envolvidas
-Dependendo dos cursos incluídos, você pode encontrar:
 
-Linguagens de programação (Python, JavaScript, etc.)
+## 💻 Tecnologias Utilizadas
 
-Frameworks web
+Diversas tecnologias são abordadas nos cursos, incluindo:
 
-Bancos de dados
+| Categoria       | Tecnologias                          |
+|-----------------|--------------------------------------|
+| Linguagens      | Python, JavaScript, Java, C#         |
+| Front-end       | HTML5, CSS3, React, Bootstrap        |
+| Back-end        | Node.js, Express, Django, Flask      |
+| Bancos de Dados | MySQL, MongoDB, PostgreSQL           |
+| Ferramentas     | Git, Docker, VS Code, Jupyter Notebook |
 
-Ferramentas de desenvolvimento
+## 📌 Pré-requisitos
 
-📝 Como Usar
-Clone o repositório:
+Antes de começar, verifique se você possui:
+- Git instalado ([download](https://git-scm.com/))
+- Conta no GitHub
+- Ambiente de desenvolvimento configurado (dependendo do curso)
 
-bash
+## 🔧 Instalação e Uso
+
+1. Clone o repositório:
+```bash
 git clone https://github.com/FelipeAlvesRodri/Curso.git
-Navegue até a pasta do curso específico que deseja acessar
-
-Explore os arquivos e pastas conforme seu interesse
-
-🤝 Contribuições
-Contribuições são bem-vindas! Se você quer adicionar materiais de outros cursos ou melhorar os existentes:
-
-Faça um fork do projeto
-
-Crie sua branch (git checkout -b feature/nova-feature)
-
-Commit suas mudanças (git commit -m 'Adiciona novo material')
-
-Push para a branch (git push origin feature/nova-feature)
-
-Abra um Pull Request
-
-📜 Licença
-Este projeto está sob a licença MIT - veja o arquivo LICENSE para detalhes.
+cd Curso
