@@ -4,7 +4,7 @@
 - **Nome:** Felipe Alves Rodrigues
 - **Curso:**  Técnico Desenvolvimento de Sistemas
 - **Ano:** 3º ano (Final)
-- **Instituição:** [Nome da sua instituição]
+- **Instituição:** E.E.Prof Amilcare Mattei
 
 ## 📋 Sobre o Repositório
 Este repositório contém os projetos desenvolvidos durante o curso técnico em Desenvolvimento de Sistemas, incluindo trabalhos práticos, exercícios e projetos finais. O objetivo é documentar a evolução do aprendizado e servir como portfólio profissional.
@@ -99,45 +99,12 @@ Portfolio/
 - Contribuição em projetos open source
 
 ## 📫 Contato
-- Email: [seu-email@exemplo.com]
-- LinkedIn: [seu-linkedin]
-- GitHub: [seu-github]
+- Email: [felipealvesrodrigues421@exemplo.com]
+- LinkedIn: [https://www.linkedin.com/in/felipealves-py/]
+- GitHub: [https://github.com/FelipeAlves4]
 
 ---
 *Este repositório está em constante atualização conforme novos projetos são desenvolvidos durante o curso.*
-
-# Sistema de Gerenciamento de Tarefas (TDS)
-
-## 📋 Sobre o Projeto
-O TDS (Task Development System) é um sistema web desenvolvido para gerenciamento eficiente de tarefas e projetos. O sistema permite o cadastro de usuários, criação e gerenciamento de tarefas, com funcionalidades de priorização, categorização e acompanhamento de status.
-
-## 🚀 Funcionalidades
-- Cadastro e autenticação de usuários
-- Criação e gerenciamento de tarefas
-- Categorização de tarefas
-- Sistema de prioridades
-- Acompanhamento de status
-- Interface responsiva e intuitiva
-
-## 🛠️ Tecnologias Utilizadas
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP
-- Banco de Dados: MySQL
-- Bibliotecas: Bootstrap 5.3.2
-
-
-2. Configure o banco de dados:
-   - Crie um banco de dados MySQL
-   - Importe o arquivo `database.sql`
-   - Configure as credenciais em `includes/config.php`
-
-3. Configure o servidor web:
-   - Aponte o document root para a pasta do projeto
-   - Certifique-se que o mod_rewrite está habilitado (Apache)
-
-4. Acesse o sistema:
-   - Abra o navegador
-   - Acesse `http://localhost/TDS`
 
 ## 👥 Contribuição
 Contribuições são bem-vindas! Para contribuir:
@@ -151,56 +118,10 @@ Contribuições são bem-vindas! Para contribuir:
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 📧 Contato
-Seu Nome - [@seutwitter](https://twitter.com/seutwitter) - email@exemplo.com
+Felipe Alves- [@seutwitter](https://twitter.com/seutwitter) - email@exemplo.com
 
 Link do Projeto: [https://github.com/seu-usuario/TDS](https://github.com/seu-usuario/TDS)
 
-# 📚 Repositório de Cursos - Felipe Alves Rodrigues
-
-![GitHub last commit](https://img.shields.io/github/last-commit/FelipeAlvesRodri/Curso?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/FelipeAlvesRodri/Curso?style=flat-square)
-
-Repositório dedicado ao armazenamento de materiais, projetos e exercícios de diversos cursos de programação e desenvolvimento.
-
-## 🚀 Visão Geral
-
-Este repositório serve como:
-- Banco de conhecimento para consulta
-- Portfólio de aprendizagem
-- Local de prática e experimentação
-- Compartilhamento de recursos educacionais
-
-## 📂 Estrutura do Projeto
-Curso/
-├── 📁 2 ano /
-│ ├── 📁 materia/
-│ │ ├── 📄 exemplos/
-│ │ ├── 📄 exercicios/
-│ │ └── 📄 projetos/
-│ └── 📁 outra materia/
-├── 📁 3 ano /
-├── 📄 README.md
-└── 📄 LICENSE
-
-
-## 💻 Tecnologias Utilizadas
-
-Diversas tecnologias são abordadas nos cursos, incluindo:
-
-| Categoria       | Tecnologias                          |
-|-----------------|--------------------------------------|
-| Linguagens      | Python, JavaScript, Java, C#         |
-| Front-end       | HTML5, CSS3, React, Bootstrap        |
-| Back-end        | Node.js, Express, Django, Flask      |
-| Bancos de Dados | MySQL, MongoDB, PostgreSQL           |
-| Ferramentas     | Git, Docker, VS Code, Jupyter Notebook |
-
-## 📌 Pré-requisitos
-
-Antes de começar, verifique se você possui:
-- Git instalado ([download](https://git-scm.com/))
-- Conta no GitHub
-- Ambiente de desenvolvimento configurado (dependendo do curso)
 
 ## 🔧 Instalação e Uso
 
