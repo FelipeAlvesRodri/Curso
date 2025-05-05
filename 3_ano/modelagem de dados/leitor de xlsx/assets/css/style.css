@@ -1,0 +1,98 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+.card {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border: none;
+    margin-bottom: 20px;
+    border-radius: 12px;
+}
+
+.card-title {
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+.table {
+    margin-bottom: 0;
+    font-size: 0.95rem;
+    width: auto;
+    min-width: 220px;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+
+.table thead th {
+    background-color: #eaf1fb;
+    border-bottom: 2px solid #b6c8e6;
+    color: #2c3e50;
+    font-weight: 700;
+    text-align: center;
+}
+
+.table tbody tr:hover {
+    background-color: #f1f7fd;
+}
+
+.table-bordered > :not(caption) > * > * {
+    border-width: 1px 0;
+    border-color: #b6c8e6;
+}
+
+.table td, .table th {
+    padding: 0.45rem 0.75rem;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #3498db;
+    border-color: #3498db;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9;
+    border-color: #2980b9;
+}
+
+.alert {
+    border-radius: 0;
+    margin-bottom: 20px;
+}
+
+h6 {
+    color: #7f8c8d;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-size: 1.08rem;
+    font-weight: 600;
+}
+
+#debug {
+    display: none;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+}
+
+/* Espaçamento entre cards de escolas */
+.card.mb-3 {
+    margin-bottom: 16px;
+}
+
+/* Centralizar títulos das tabelas */
+.card-title, .card h6 {
+    text-align: center;
+} 
